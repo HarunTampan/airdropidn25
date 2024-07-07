@@ -1,4 +1,3 @@
 tasks:
   - init: npm install
-    command: |
-      npm install --save-dev eslint jest
+    command: npm run test
