@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "airdropidn25": "^1.1.4"
+  },
+  "name": "@dewacuan/tea-bohay",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "eslint": "^9.6.0",
+    "jest": "^29.7.0",
+    "mocha": "^10.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HarunTampan/airdropidn25"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarunTampan/airdropidn25/issues"
+  },
+  "homepage": "https://github.com/HarunTampan/airdropidn25#readme",
+  "description": ""
+}
